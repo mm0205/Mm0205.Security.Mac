@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Mm0205.Security.Mac.-1220778667.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Mm0205.Security.Mac" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="InternalVisibility.cs" t="Include" />
+        <e p="libMm0205_Native_Mac_Keychain.dylib" t="Include" />
+        <e p="Mm0205.Security.Mac.csproj" t="IncludeRecursive" />
+        <e p="Natives" t="Include">
+          <e p="GenericPasswordEditParameter.cs" t="Include" />
+          <e p="NativeMethods.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="Mm0205.Security.Mac.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Mm0205.Security.Mac.ConsoleTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Mm0205.Security.Mac.ConsoleTest.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Mm0205.Security.Mac.ConsoleTest.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Mm0205.Security.Mac.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
